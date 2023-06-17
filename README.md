@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 GitHub Stats
+[![dpvasani's GitHub | Stats](https://stats.quine.sh/dpvasani/github?theme=dark)](https://quine.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
