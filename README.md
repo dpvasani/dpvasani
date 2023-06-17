@@ -18,6 +18,9 @@
 ## 🏆 GitHub Stats
 [![dpvasani's GitHub | Stats](https://stats.quine.sh/dpvasani/github?theme=dark)](https://quine.sh)
 
+## ⌛ GitHub Languages Over Time
+[![dpvasani's GitHub | Languages Over Time](https://stats.quine.sh/dpvasani/languages-over-time?theme=dark)](https://quine.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
