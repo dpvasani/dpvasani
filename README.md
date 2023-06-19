@@ -15,13 +15,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dpvasani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## Leetcode
 ![](https://leetcard.jacoblin.cool/dpvasani56?ext=activity)
+
+## Leetcode Badge
+![image](https://github.com/dpvasani/dpvasani/assets/109815626/72779bf5-d497-449b-9216-15a0d5e3ca37)
+![image](https://github.com/dpvasani/dpvasani/assets/109815626/0ae5064d-bccd-41b6-99c7-b39949a813d5)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
