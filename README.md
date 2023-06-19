@@ -14,6 +14,8 @@
 ### 🔝 Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dpvasani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -32,6 +34,9 @@
 
 ## ⌛ GitHub Languages Over Time
 [![dpvasani's GitHub | Languages Over Time](https://stats.quine.sh/dpvasani/languages-over-time?theme=dark)](https://quine.sh)
+
+## ⌛ GitHub Topic Over Time
+[![dpvasani's GitHub | Topics Over Time](https://stats.quine.sh/dpvasani/topics-over-time?theme=dark)](https://quine.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
