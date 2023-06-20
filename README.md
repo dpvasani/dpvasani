@@ -40,7 +40,7 @@
 ## ⌛ GitHub Topic Over Time
 [![dpvasani's GitHub | Topics Over Time](https://stats.quine.sh/dpvasani/topics-over-time?theme=dark)](https://quine.sh)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
