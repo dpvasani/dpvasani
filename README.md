@@ -28,7 +28,7 @@
 
 ## 🏆 HacktoberFest Badge
 
-
+[![Badges](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
 
 
 ## 🏆 GitHub Trophies
