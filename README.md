@@ -26,7 +26,9 @@
 ![image](https://github.com/dpvasani/dpvasani/assets/109815626/72779bf5-d497-449b-9216-15a0d5e3ca37)
 ![image](https://github.com/dpvasani/dpvasani/assets/109815626/0ae5064d-bccd-41b6-99c7-b39949a813d5)
 
+## HacktoberFest Badge
 
+[![An image of @dpvasani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
