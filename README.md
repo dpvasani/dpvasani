@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Backend Development <br>🤝 I’m looking for help for hackathon team<br>🌱 I’m currently learning web 3.0<br>💬 Ask me about #Web 3.0 #Full Stack Web Development #MERN Stack<br>
+👯 I’m looking to collaborate on Web 3.0 Development <br>🤝 I’m looking for help for hackathon team<br>🌱 I’m currently learning web 3.0<br>💬 Ask me about #Web 3.0 #Full Stack Web Development #MERN Stack<br>
 
 
 ## 🌐 Socials:
@@ -28,7 +28,7 @@
 
 ## 🏆 HacktoberFest Badge
 
-[![Badges](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
+
 
 
 ## 🏆 GitHub Trophies
