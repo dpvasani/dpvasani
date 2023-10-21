@@ -43,6 +43,10 @@
 ## ⌛ GitHub Topic Over Time
 [![dpvasani's GitHub | Topics Over Time](https://stats.quine.sh/dpvasani/topics-over-time?theme=dark)](https://quine.sh)
 
+
+## ⌛ GitHub Most Used Packages 
+[![dpvasani's GitHub | Dependencies](https://stats.quine.sh/dpvasani/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dpvasani)
+
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
