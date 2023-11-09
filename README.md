@@ -15,10 +15,10 @@
 </p>
 
 <p align="left">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/darshan-vasani-3299ba245/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://www.instagram.com/dp_vasani56">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
 </p>
