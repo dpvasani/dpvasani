@@ -15,9 +15,10 @@
   <a href="https://www.instagram.com/dp_vasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/dpvasani_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani_56" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vadanidp0qg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vadanidp0qg" height="30" width="40" /></a>
-  <a href="https://linktr.ee/dpvasani56" target="blank"><img align="center" src="https://your-icon-source.com/linktree-icon.svg" alt="dpvasani56" height="30" width="40" /></a>
-  <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://your-icon-source.com/topmate-icon.svg" alt="dpvasani_56" height="30" width="40" /></a>
+  <a href="https://linktr.ee/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/789d1777-6921-4b0f-8740-e85977a95dfc" alt="dpvasani56" height="40" width="40" /></a>
+  <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a>
 </p>
+
 
 
 
