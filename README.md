@@ -1,4 +1,5 @@
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/dpvasani/dpvasani/assets/109815626/541cefed-50dc-4fdf-8c7e-e3f9e3fa3148)
+
+![LinkedIn Headline](https://github.com/dpvasani/dpvasani/assets/109815626/6b0bc270-ecc2-426f-99a9-75817e206c03)
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Web 3.0 Development <br>🤝 I’m looking for team in hackathon <br>💬 Ask me about #Web 3.0 #Full Stack Web Development #MERN Stack<br>
