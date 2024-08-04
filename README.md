@@ -2,7 +2,7 @@
 ![LinkedIn Headline](https://github.com/dpvasani/dpvasani/assets/109815626/6b0bc270-ecc2-426f-99a9-75817e206c03)
 
 # 💫 About Me:
-#### GSSoC '24 Mentor | 7K+ Family @Linkedin | Mentor At @topmate.io | Building @CryptoMinds | MERN Stack Web Developer | Web 3.0 | Blockchain Developer | Career Counselor | Graphic Designer
+### GSSoC '24 Mentor | 7K+ Family @Linkedin | Mentor At @topmate.io | Building @CryptoMinds | MERN Stack Web Developer | Web 3.0 | Blockchain Developer | Career Counselor | Graphic Designer
 👯 I’m looking to collaborate on Web 3.0 Development <br>🤝 I’m looking for team in hackathon <br>💬 Ask me about #Web 3.0 #Full Stack Web Development #MERN Stack<br>
 
 
