@@ -138,6 +138,10 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="55" height="55" />
       <br>LinkedIn
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="55" height="55" />
+      <br>AutoCad
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -171,6 +175,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
       <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
+      <br>Redux
     </td>
   </tr>
 </table>
