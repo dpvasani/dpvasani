@@ -55,7 +55,7 @@
       <br>CSS
     </td>
      <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=node" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node Js
     </td>
      <td align="center" widht="90">
@@ -114,6 +114,8 @@
 </table>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
+
+
  # 🔝 Most Used Languages
 <table>
   <tr>
@@ -125,6 +127,25 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=radical">
+    </td>
+    <td>
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvasani&theme=radical">
+    </td>
+    <td>
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvasani&theme=radical">
+    </td>
+    <td>
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
+    </td>
+  </tr>
+</table>
+</div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
  # 🔝 Top Contributed Repo & Leetcode
