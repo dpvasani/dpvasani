@@ -39,10 +39,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
@@ -65,6 +61,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="55" height="55" />
       <br>Latex
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
     </td>
   </tr>
   <tr>
