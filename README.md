@@ -30,10 +30,21 @@
 # 📊 GitHub Over Time:
 ![](https://github-readme-stats.vercel.app/api?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ### 🔝 Contributions
-![](https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false)<br/>
-### 🔝 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false) 
 
+
+### 🔝 Most Used Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=radical" alt="Profile Summary" />
+    </td>
+  </tr>
+</table>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dpvasani&limit=5&theme=dark&combine_all_yearly_contributions=true)
