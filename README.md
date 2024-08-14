@@ -100,6 +100,10 @@
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
+      <br>Npm
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
