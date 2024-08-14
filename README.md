@@ -11,10 +11,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2024 Goals:** Learn **Machine Learning**, **DevOps** And strengthen **DSA**
 
 
-# 🌐 Socials:
 
-
-<h3 align="left">Connect with me : </h3>
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
   <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dpvasani56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Vasani" height="30" width="40" /></a>
@@ -25,7 +23,7 @@
   <a href="https://topmate.io/dpvasani_56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a>
 </p>
 
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 💻
@@ -71,13 +69,15 @@
 </table>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# 🏆 HacktoberFest Badge
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />HacktoberFest Badge</h1>
 
 [![Badges](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 # 🏆 GitHub Stats & ⌛ GitHub Most Used Packages 
 <table>
   <tr>
