@@ -46,6 +46,22 @@
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <br>GitHub
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
+      <br>Figma
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
