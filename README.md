@@ -76,12 +76,22 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Stats
-[![dpvasani's GitHub | Stats](https://stats.quine.sh/dpvasani/github?theme=dark)](https://quine.sh)
+## 🏆 GitHub Stats & ⌛ GitHub Most Used Packages 
 
-
-## ⌛ GitHub Most Used Packages 
-[![dpvasani's GitHub | Dependencies](https://stats.quine.sh/dpvasani/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dpvasani)
+<table>
+  <tr>
+    <td>
+      <a href="https://quine.sh">
+        <img src="https://stats.quine.sh/dpvasani/github?theme=dark" alt="dpvasani's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=dpvasani">
+        <img src="https://stats.quine.sh/dpvasani/dependencies?theme=dark" alt="dpvasani's GitHub Dependencies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
