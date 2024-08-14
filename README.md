@@ -74,11 +74,12 @@
 [![Badges](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# 🏆 GitHub Trophies
+# ⌛ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# 🏆 GitHub Stats & ⌛ GitHub Most Used Packages 
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" /> GitHub Stats &  GitHub Most Used Packages</h1>
+ 
 <table>
   <tr>
     <td>
