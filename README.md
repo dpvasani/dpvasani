@@ -93,13 +93,25 @@
   </tr>
 </table>
 
+## ⌛ GitHub Languages & Topic Over Time
+
+<table>
+  <tr>
+    <td>
+      <a href="https://quine.sh">
+        <img src="https://stats.quine.sh/dpvasani/languages-over-time?theme=dark" alt="dpvasani's GitHub Languages Over Time" />
+      </a>
+    </td>
+    <td>
+      <a href="https://quine.sh">
+        <img src="https://stats.quine.sh/dpvasani/topics-over-time?theme=dark" alt="dpvasani's GitHub Topics Over Time" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-## ⌛ GitHub Languages Over Time
-[![dpvasani's GitHub | Languages Over Time](https://stats.quine.sh/dpvasani/languages-over-time?theme=dark)](https://quine.sh)
 
-## ⌛ GitHub Topic Over Time
-[![dpvasani's GitHub | Topics Over Time](https://stats.quine.sh/dpvasani/topics-over-time?theme=dark)](https://quine.sh)
 
 
 
