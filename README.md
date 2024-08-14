@@ -30,148 +30,142 @@
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
-    <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>Typescript
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
       <br>Next Js
     </td>
-    <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
-     <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
     </td>
-     <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
     </td>
-     <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node Js
     </td>
-     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="55" height="55" />
-      <br>Notion
-    </td>
-     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
-      <br>Npm
-    </td>
-     <td align="center" widht="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
     </td>
-     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
-      <br>GitHub
-    </td>
-     <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="55" height="55" />
+      <br>Latex
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="MongoDB" />
-      <br>C
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <br>GitHub
     </td>
-    <td align="center" widht=90>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="55" height="55" />
+      <br>Notion
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" width="55" height="55" />
+      <br>Stackoverflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
+      <br>Solidity
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td>
-    <td align="center" widht=90>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="55" height="55" />
+      <br>Netlify
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="md" />
-      <br>Tailwind 
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="md" />
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" width="55" height="55" alt="md" />
-      <br>Stackoverflow
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="55" height="55" alt="md" />
-      <br>Solidity
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="55" height="55" alt="md" />
-      <br>Netlify 
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="md" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="md" />
+      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
       <br>Vercel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="md" />
-      <br>Linkedin
+      <img src="https://skillicons.dev/icons?i=discord" alt="icon" width="55" height="55" />
+      <br>Discord
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="icon" width="55" height="55" />
+      <br>Instagram
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="55" height="55" />
+      <br>LinkedIn
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="md" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="md" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="md" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=latex" width="55" height="55" alt="md" />
-      <br>Latex
+      <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="55" height="55" />
+      <br>Firebase
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="md" />
-      <br>Postman 
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="55" height="55" />
+      <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=replit" width="55" height="55" alt="md" />
+      <img src="https://skillicons.dev/icons?i=replit" alt="icon" width="55" height="55" />
       <br>Replit
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="md" />
-      <br>SQL
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="md" />
-      <br>Instagram
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
+      <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="55" height="55" alt="md" />
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
       <br>Photoshop
     </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=discord" width="55" height="55" alt="md" />
-      <br>Discord
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="md" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
       <br>Bootstrap
     </td>
   </tr>
