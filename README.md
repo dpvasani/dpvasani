@@ -51,6 +51,22 @@
       <br>HTML
     </td>
      <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>CSS
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=node" alt="icon" width="55" height="55" />
+      <br>Node Js
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="55" height="55" />
+      <br>Notion
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
+      <br>Npm
+    </td>
+     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
     </td>
