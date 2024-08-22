@@ -235,6 +235,12 @@
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
+# ⚡Activity Graph
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night"/> 
+</div>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
  # 🔝 Top Contributed Repo & Leetcode
 <table>
   <tr>
