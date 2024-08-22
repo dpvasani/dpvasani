@@ -219,16 +219,16 @@
 <table>
   <tr>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=radical">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=tokyonight">
     </td>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvasani&theme=radical">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvasani&theme=tokyonight">
     </td>
     <td>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvasani&theme=radical">
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvasani&theme=tokyonight">
     </td>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=tokyonight&utcOffset=8">
     </td>
   </tr>
 </table>
