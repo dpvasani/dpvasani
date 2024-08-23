@@ -331,6 +331,13 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
+
+  
+| Overview | Card |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Achievements](assets/metrics.plugin.achievements.svg) |
+
+
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
