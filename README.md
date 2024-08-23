@@ -245,9 +245,9 @@
 # ⚡Stackoverflow
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" />
     </td>
