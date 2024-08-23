@@ -234,22 +234,25 @@
 </table>
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
 # ⚡Activity Graph
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night"/> 
 </div>
-
-
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-# ⚡Stackoverflow
+
+# ⚡ Achievements & Stackoverflow
+
 <table>
   <tr>
-<!--     <td>
-      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" />
+    <!-- Uncomment and use this if you want to display the Stack Overflow card -->
+    <!-- <td>
+      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
     </td> -->
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" />
+      <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
+    </td>
+    <td>
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
     </td>
   </tr>
 </table>
@@ -327,16 +330,6 @@
 
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
-
-  
-| Overview | Card |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Achievements](assets/metrics.plugin.achievements.svg) |
-
 
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
