@@ -267,6 +267,7 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=dpvasani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
     <td>
+<!--     <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
       <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" />
     </td>
   </tr>
