@@ -240,6 +240,21 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night"/> 
 </div>
 
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+# ⚡Stackoverflow
+<table>
+  <tr>
+    <td>
+      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" />
+    </td>
+  </tr>
+</table>
+
+
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
  # 🔝 Top Contributed Repo & Leetcode
 <table>
