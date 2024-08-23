@@ -333,7 +333,9 @@
 
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
+<!--
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/dpvasani65?v=1)
+-->
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
