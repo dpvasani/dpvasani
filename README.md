@@ -312,6 +312,23 @@
   </tr>
 </table>
 
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<br>
+
+<p align="center" >
+  <h1 align="center">🔥3D Contributions Chart</h1>
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/night.svg"/>
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg"/>
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/profile-night-green.svg" />
+	</picture>
+</p>
+
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
+
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## ✍️ Random Dev Quote 
