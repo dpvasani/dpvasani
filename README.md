@@ -335,6 +335,9 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 <!--
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/dpvasani65?v=1)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
 -->
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
