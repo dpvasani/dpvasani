@@ -1,8 +1,6 @@
-
-![LinkedIn Headline](https://github.com/dpvasani/dpvasani/assets/109815626/6b0bc270-ecc2-426f-99a9-75817e206c03)
-
+![LinkedIn Headline](https://github.com/user-attachments/assets/17622c97-4d90-48e8-83d0-541c6a7a7132)
 # 💫 About Me:
-### GSSoC '24 Mentor | 8K+ Family @Linkedin | Mentor At @topmate.io | Building @CryptoMinds | MERN Stack Web Developer | Web 3.0 | Blockchain Developer | Career Counselor | Graphic Designer
+### 8K+ Family @Linkedin🔹Mentor At @topmate.io🔹Software Developer 🔹Web 3.0 🔹Building @CryptoMinds🔹MERN Stack 🔹Blockchain 🔹Graphic Enthusiast🔹Ex GSSoC '24 Mentor🔹Upcoming Mentor @WoB
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** 🇮🇳
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** and **Web Developer**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Web Development** 
