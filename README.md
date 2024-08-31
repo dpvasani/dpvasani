@@ -64,8 +64,8 @@
       <br>Latex
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
     </td>
   </tr>
   <tr>
