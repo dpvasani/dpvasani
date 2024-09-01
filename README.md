@@ -208,7 +208,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=radical" alt="Profile Summary" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight" alt="Profile Summary" />
     </td>
   </tr>
 </table>
