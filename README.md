@@ -235,7 +235,7 @@
 
 # ⚡Activity Graph
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night"/> 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night&radius=14"/> 
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
