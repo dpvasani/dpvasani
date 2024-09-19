@@ -63,10 +63,6 @@
       <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="55" height="55" />
       <br>Latex
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -97,10 +93,10 @@
       <img src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" width="55" height="55" />
       <br>Stackoverflow
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
       <br>Npm
@@ -139,28 +135,24 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="55" height="55" />
       <br>LinkedIn
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="55" height="55" />
-      <br>AutoCad
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
       <br>MongoDB
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
       <br>MySQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="55" height="55" />
       <br>Firebase
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="55" height="55" />
       <br>SQLite
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=replit" alt="icon" width="55" height="55" />
       <br>Replit
@@ -169,10 +161,14 @@
       <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
       <br>Postman
     </td>
-    <td align="center" width="90">
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
       <br>Photoshop
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
       <br>Bootstrap
@@ -180,6 +176,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
       <br>Redux
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="55" height="55" />
+      <br>AutoCad
     </td>
   </tr>
 </table>
