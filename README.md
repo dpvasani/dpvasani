@@ -216,7 +216,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" />
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" /> -->
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time" alt="dpvasani" />
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Summary" />
@@ -228,7 +229,9 @@
 <table>
   <tr>
     <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">         
+<!--         <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dpvasani&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="dpvasani" /> -->
     </td>
     <td>
       <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">
