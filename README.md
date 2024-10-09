@@ -9,6 +9,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2024 Goals:** Learn **Machine Learning**, **DevOps** And strengthen **DSA**
 
 
+
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
   <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a>
