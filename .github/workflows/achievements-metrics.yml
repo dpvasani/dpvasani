@@ -43,10 +43,11 @@ jobs:
           plugin_achievements_threshold: C
 
       # Commit and Push the generated metrics SVG
-      - name: Commit and Push
+      - name: Commit and Push All Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add assets/metrics.plugin.achievements.svg
-          git commit -m "Update metrics"
+          git add .
+          git commit -m "Update metrics and other changes"
           git push
+
