@@ -79,6 +79,10 @@
       <br>Figma
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
       <br>Tailwind
     </td>
@@ -86,10 +90,10 @@
       <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
       <br>Vite
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="55" height="55" />
       <br>Notion
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" width="55" height="55" />
       <br>Stackoverflow
