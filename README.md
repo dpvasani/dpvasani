@@ -203,7 +203,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=dpvasani&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=dpvasani&theme=tokyonight" alt="GitHub Streak" />
 <!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Streak" /> -->
 <!--        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
     </td>
