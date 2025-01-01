@@ -385,6 +385,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dpvasani&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
 
 <!--
 ## ✍️ GitHub 2024 Unwrapped
@@ -395,3 +397,22 @@
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
+
+# ✍️ GitHub-2024-Unwrapped
+![dpvasani](https://github.com/user-attachments/assets/191e9221-d2a4-472a-af7b-1524c6c5225b)
+
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# 📊 GitHub 2024:
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td style="width:50%;">
+      <img style="aspect-ratio: 9 / 16; width:100%;" src="https://github.com/user-attachments/assets/20b93d90-ff02-4694-baa7-ddf7ce7900b6" alt="GitHub Stats" />
+    </td>
+    <td style="width:50%;">
+      <img style="aspect-ratio: 9 / 16; width:100%;" src="https://github.com/user-attachments/assets/5e04c871-6031-4881-935f-9816f5a36160" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
