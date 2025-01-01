@@ -398,7 +398,7 @@
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
 
-# ✍️ GitHub-2024-Unwrapped
+# ✍️ GitHub 2024 Unwrapped
 ![dpvasani](https://github.com/user-attachments/assets/191e9221-d2a4-472a-af7b-1524c6c5225b)
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
