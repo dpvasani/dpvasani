@@ -382,10 +382,11 @@
 ## ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dpvasani&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+<!--
 ## ✍️ GitHub 2024 Unwrapped
 
 ![github-wrapped (3)](https://github.com/user-attachments/assets/eb5d6a28-2ccc-4655-9949-65a452f8afb0)
@@ -393,3 +394,4 @@
 
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+-->
