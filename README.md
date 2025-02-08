@@ -381,14 +381,6 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
 [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
 -->
-## ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=dpvasani&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
 
 <!--
 ## ✍️ GitHub 2024 Unwrapped
@@ -437,3 +429,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
 </p>
 </div>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=dpvasani&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+
