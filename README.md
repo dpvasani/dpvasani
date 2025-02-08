@@ -195,8 +195,57 @@
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
+<!--
+<details open>
+<summary>Top Repositories</summary>
+<p align="center">
+    <a href="https://github.com/dpvasani/30-Days-Of-DSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=30-Days-Of-DSA&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/OOPs-In-Cpp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=OOPs-In-Cpp&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/JavaScript-Ultimate-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=JavaScript-Ultimate-Code&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend-Template-JavaScript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-JavaScript&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend-Template-TypeScript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-TypeScript&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+</details>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+-->
 
-
+# 🚀 Top Repositories
+<p align="center">
+    <a href="https://github.com/dpvasani/30-Days-Of-DSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=30-Days-Of-DSA&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/OOPs-In-Cpp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=OOPs-In-Cpp&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/dpvasani/JavaScript-Ultimate-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=JavaScript-Ultimate-Code&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend-Template-JavaScript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-JavaScript&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/dpvasani/Backend-Template-TypeScript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-TypeScript&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # 📊 GitHub Over Time:
 <table>
