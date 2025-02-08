@@ -225,24 +225,24 @@
 # 🚀 Top Repositories
 <p align="center">
     <a href="https://github.com/dpvasani/30-Days-Of-DSA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=30-Days-Of-DSA&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=30-Days-Of-DSA&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
     <a href="https://github.com/dpvasani/OOPs-In-Cpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=OOPs-In-Cpp&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=OOPs-In-Cpp&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
     <a href="https://github.com/dpvasani/Backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/dpvasani/JavaScript-Ultimate-Code">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=JavaScript-Ultimate-Code&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=JavaScript-Ultimate-Code&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
     <a href="https://github.com/dpvasani/Backend-Template-JavaScript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-JavaScript&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-JavaScript&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
     <a href="https://github.com/dpvasani/Backend-Template-TypeScript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-TypeScript&theme=tokyonight&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dpvasani&repo=Backend-Template-TypeScript&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
     </a>
 </p>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
