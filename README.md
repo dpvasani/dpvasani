@@ -400,11 +400,6 @@
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
 
-# ✍️ GitHub 2024 Unwrapped
-![dpvasani](https://github.com/user-attachments/assets/191e9221-d2a4-472a-af7b-1524c6c5225b)
-
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 # 📊 GitHub 2024:
 <table style="width:100%; table-layout:fixed;">
   <tr>
@@ -418,3 +413,27 @@
 </table>
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# ✍️ GitHub 2024 Unwrapped
+![dpvasani](https://github.com/user-attachments/assets/191e9221-d2a4-472a-af7b-1524c6c5225b)
+
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
+
+
+<div align="center">
+<a href="#">
+    <img height="120" alt="Thanks For Visiting My Profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</a>
+<br>
+<p>
+  
+</p>
+<blockquote>
+<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
+</blockquote>
+<p align="center" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+</p>
+</div>
