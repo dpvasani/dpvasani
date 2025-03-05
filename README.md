@@ -275,10 +275,10 @@
   <tr>
     <td>
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" /> -->
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time" alt="dpvasani" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time&hide_border=true" alt="dpvasani" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true" alt="Profile Summary" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Profile Summary" />
     </td>
   </tr>
 </table>
@@ -310,7 +310,7 @@
 
 # ⚡Activity Graph
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night&radius=14&include_all_commits=true&count_private=true"/> 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dpvasani&theme=tokyo-night&radius=14&include_all_commits=true&count_private=true&hide_border=false"/> 
 </div>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
