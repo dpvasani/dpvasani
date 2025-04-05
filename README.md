@@ -323,7 +323,8 @@
       <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
     </td> -->
     <td>
-      <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
+<!--       <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" /> -->
+      <img src="assets/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" />
     </td>
     <td>
        <img src="assets/metrics.template.classic.svg" alt="Classic" />
