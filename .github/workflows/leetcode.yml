@@ -35,7 +35,7 @@ jobs:
 
           # ✅ LeetCode Plugin Settings
           plugin_leetcode: yes
-          plugin_leetcode_user: dpvasani_56   # Replace with your actual LeetCode username
+          plugin_leetcode_user: dpvasani56   # Replace with your actual LeetCode username
           plugin_leetcode_sections: solved,skills,recent
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_ignored_skills: ""
