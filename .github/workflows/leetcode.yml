@@ -1,0 +1,38 @@
+# .github/workflows/leetcode.yml
+
+name: 🗳️ LeetCode Stats
+
+on:
+  # Automatically run every day at 1:00 AM IST (19:30 UTC)
+  schedule:
+    - cron: "30 19 * * *"
+  # Allow manual run
+  workflow_dispatch:
+  # Run on push to default branches
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  leetcode-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics.plugin.leetcode.svg
+
+          # Base settings
+          user: dpvasani
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+
+          # ✅ LeetCode Plugin Settings
+          plugin_leetcode: yes
+          plugin_leetcode_user: dpvasani_56   # Replace with your actual LeetCode username
+          plugin_leetcode_sections: solved,skills,recent
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_ignored_skills: ""
+          plugin_leetcode_limit_recent: 5
