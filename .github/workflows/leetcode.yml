@@ -28,9 +28,10 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
-           # ✅ Custom Title
-  config_display: large
-  config_title: "🧠 My LeetCode Stats"
+
+          # ✅ Custom Title
+          config_display: large
+          config_title: "🧠 My LeetCode Stats"
 
           # ✅ LeetCode Plugin Settings
           plugin_leetcode: yes
