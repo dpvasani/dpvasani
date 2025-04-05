@@ -442,7 +442,7 @@
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-  <img align="center" src="<img src="assets/metrics.plugin.calender.svg" alt="Commit Calendar" />
+  <img align="center" src="assets/metrics.plugin.calendar.svg" alt="Commit Calendar" />
 </div>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
