@@ -315,22 +315,23 @@
 -->
 
 # ⚡ Achievements & Stackoverflow
-
 <table>
   <tr>
-    <!-- Uncomment and use this if you want to display the Stack Overflow card -->
-    <!-- <td>
-      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
-    </td> -->
     <td>
 <!--       <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" /> -->
       <img src="assets/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" />
     </td>
-    <td>
-       <img src="assets/metrics.template.classic.svg" alt="Classic" />
+    <td rowspan="2">
+      <img src="assets/metrics.template.classic.svg" alt="Classic" />
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=dpvasani_56&theme=github-dark" alt="LeetCode Badges" />
     </td>
   </tr>
 </table>
+
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <table>
