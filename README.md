@@ -15,14 +15,14 @@
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
-  <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a>
+  <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani56" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dpvasani56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Vasani" height="30" width="40" /></a>
   <a href="https://www.instagram.com/dpvasani56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/dpvasani_56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani_56" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/dpvasani56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani56" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/dpvasani56/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dpvasani56" height="30" width="40" /></a>
   <a href="https://linktr.ee/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/789d1777-6921-4b0f-8740-e85977a95dfc" alt="dpvasani56" height="40" width="40" /></a>
-  <a href="https://topmate.io/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani_56" height="30" width="30" /></a>
-   <a href="https://codolio.com/profile/dpvasani56" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bc555784-3a1b-4660-bb42-415e31246a25" alt="dpvasani_56" height="35" width="35" /></a>
+  <a href="https://topmate.io/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani56" height="30" width="30" /></a>
+   <a href="https://codolio.com/profile/dpvasani56" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bc555784-3a1b-4660-bb42-415e31246a25" alt="dpvasani56" height="35" width="35" /></a>
 </p>
 
 <!-- 
@@ -327,7 +327,7 @@
   </tr>
   <tr>
      <td align="center">
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=dpvasani_56&theme=github-dark" alt="LeetCode Badges" />
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=dpvasani56&theme=github-dark" alt="LeetCode Badges" />
     </td>
   </tr>
 </table>
@@ -344,7 +344,7 @@
       <img src="assets/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" />
+      <img src="https://leetcard.jacoblin.cool/dpvasani56?ext=activity" alt="Leetcode Stats" />
     </td>
   </tr>
 </table>
@@ -360,8 +360,8 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=dpvasani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
     <td>
-<!--     <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
-<!--       <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" /> -->
+<!--     <img src="https://leetcard.jacoblin.cool/dpvasani56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
+<!--       <img src="https://leetcard.jacoblin.cool/dpvasani56?ext=activity" alt="Leetcode Stats" /> -->
         <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
     </td>
   </tr>
