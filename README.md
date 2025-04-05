@@ -326,6 +326,7 @@
       <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
     </td>
     <td>
+       <img src="assets/metrics.template.classic.svg" alt="Classic" />
     </td>
   </tr>
 </table>
