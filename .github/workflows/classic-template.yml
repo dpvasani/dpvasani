@@ -28,3 +28,4 @@ jobs:
           # Optional: You can include any other plugins here too
           plugin_languages: yes
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
