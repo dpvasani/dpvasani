@@ -1,0 +1,33 @@
+name: 🗨️ Stack Overflow Stats
+
+on:
+  schedule:
+    - cron: "15 19 * * *"  # Runs every day at 12:45 AM IST (19:15 UTC)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  stackoverflow-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics.plugin.stackoverflow.svg
+
+          # 👤 GitHub and Template Settings
+          user: dpvasani
+          template: classic
+          base: ""
+          config_timezone: Asia/Calcutta
+
+          # 🗨️ Stack Overflow Plugin Settings
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 22938645      # Replace this!
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_limit: 3
+          plugin_stackoverflow_lines: 5
+          plugin_stackoverflow_lines_snippet: 3
