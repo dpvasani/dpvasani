@@ -326,7 +326,6 @@
       <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
     </td>
   </tr>
 </table>
@@ -342,7 +341,7 @@
       <img src="assets/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
+      <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" />
     </td>
   </tr>
 </table>
@@ -359,7 +358,8 @@
     </td>
     <td>
 <!--     <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
-      <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" />
+<!--       <img src="https://leetcard.jacoblin.cool/dpvasani_56?ext=activity" alt="Leetcode Stats" /> -->
+        <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
     </td>
   </tr>
 </table>
