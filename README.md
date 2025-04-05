@@ -332,6 +332,21 @@
 </table>
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<table>
+  <tr>
+    <!-- Uncomment and use this if you want to display the Stack Overflow card -->
+    <!-- <td>
+      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
+    </td> -->
+    <td>
+      <img src="assets/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=22938645" alt="GitHub Stack Overflow" />
+    </td>
+  </tr>
+</table>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
