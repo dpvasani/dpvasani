@@ -1,6 +1,5 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/8cc8ab44-8b9d-45b5-b777-84f35c3cb5f8)
 
-
 <!-- 
 ![LinkedIn Headline](https://github.com/user-attachments/assets/17622c97-4d90-48e8-83d0-541c6a7a7132)
 -->
