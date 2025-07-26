@@ -543,7 +543,7 @@
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
-
+<!-- 
 # 📊 GitHub 2024
 <table style="width:100%; table-layout:fixed;">
   <tr>
@@ -563,7 +563,7 @@
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
+-->
 
 
 <div align="center">
