@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKENN }}
           
           # Output Options
           filename: assets/metrics.plugin.achievements.svg
