@@ -460,6 +460,7 @@
 -->
 
 # ⌛ GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
