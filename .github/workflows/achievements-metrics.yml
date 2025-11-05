@@ -19,9 +19,9 @@ jobs:
       - name: Generate Achievements Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.VASANI }}
           filename: assets/metrics.plugin.achievements.svg
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.VASANI }}
           committer_branch: main
           committer_message: "Update achievements metrics"
           user: dpvasani
