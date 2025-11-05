@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: assets/metrics.plugin.achievements.svg
-          committer_token: ${{ secrets.METRICS_TOKENN }}
+          committer_token: ${{ secrets.DPVASANI }}
           committer_branch: main
           committer_message: "Update achievements metrics"
           user: dpvasani
