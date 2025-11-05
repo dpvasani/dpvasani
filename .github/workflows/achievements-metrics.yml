@@ -19,7 +19,7 @@ jobs:
       - name: Generate Achievements Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.DPVASANI }}
           filename: assets/metrics.plugin.achievements.svg
           committer_token: ${{ secrets.DPVASANI }}
           committer_branch: main
