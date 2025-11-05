@@ -26,9 +26,8 @@ jobs:
           committer_message: "Update achievements metrics"
           user: dpvasani
           template: classic
-          base: ""
+          base: header
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          debug: yes
+          plugin_achievements_threshold: C
