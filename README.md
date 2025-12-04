@@ -8,7 +8,7 @@
 -->
 
 # 💫 About Me:
-### Software Engineer Intern @Injala🔹Mentor At @topmate.io🔹Software Developer🔹Building @CryptoMinds Community🔹MERN Stack
+### Software Engineer🔹Mentor At @topmate.io🔹Software Developer🔹Building @CryptoMinds Community🔹MERN Stack
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** 🇮🇳
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** and **Web Developer**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Web Development & Freelancing** 
