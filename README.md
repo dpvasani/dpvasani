@@ -299,7 +299,7 @@
 </details>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
-
+<!--
 # 🚀 Top Repositories
 <p align="center">
     <a href="https://github.com/dpvasani/30-Days-Of-DSA">
@@ -324,6 +324,7 @@
     </a>
 </p>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+-->
 
 # 📊 GitHub Over Time
 <table>
