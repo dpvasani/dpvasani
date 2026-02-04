@@ -325,40 +325,76 @@
 </p>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 -->
+<!--
+======================================================
+📊 GitHub Over Time (Disabled Section)
 
-# 📊 GitHub Over Time
+This section contains:
+- GitHub overall stats
+- GitHub streak stats
+- Optional alternative streak providers
+- Decorative divider animation
+
+Temporarily commented out to keep the README clean.
+Uncomment the entire block when needed.
+======================================================
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"
+        alt="GitHub Stats"
+      />
     </td>
+
     <td>
-<!--        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight" alt="GitHub Streak" /> -->
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-<!--       <img src="https://streak-stats.demolab.com/?user=dpvasani&theme=tokyonight" alt="GitHub Streak" /> -->
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" alt="GitHub Streak" /> -->
-<!--        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=dpvasani&theme=tokyonight&hide_border=false"
+        alt="GitHub Streak"
+      />
     </td>
   </tr>
 </table>
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
+
+<img
+  width="2500rem"
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+/>
+<br>
+ 
+     <!--
+    <td>
+      Top Languages (disabled)
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time"
+        alt="Top Languages"
+      />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time&hide_border=true"
+        alt="dpvasani"
+      />
+    </td>
+    -->
 
  # 🔝 Most Used Languages
+
 <table>
+  
   <tr>
     <td>
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvasani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&range=all_time" alt="Top Languages" /> -->
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpvasani&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&langs_count=10&range=all_time&hide_border=true" alt="dpvasani" />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"
+        alt="Profile Summary"
+      />
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Profile Summary" />
+      <td>
+      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpvasani&theme=tokyonight&utcOffset=8&include_all_commits=true&count_private=true">
     </td>
   </tr>
 </table>
+
 
 <div align="center">
 <table>
@@ -374,9 +410,7 @@
     <td>
       <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvasani&theme=tokyonight&include_all_commits=true&count_private=true">
     </td>
-    <td>
-      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpvasani&theme=tokyonight&utcOffset=8&include_all_commits=true&count_private=true">
-    </td>
+  
   </tr>
 </table>
 </div>
@@ -458,12 +492,13 @@
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
-
+<!--
 # ⌛ GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=dpvasani&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+-->
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
