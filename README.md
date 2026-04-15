@@ -17,7 +17,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2025 Goals:** Learn **Machine Learning**, **AI**, **Full Stack NextJS & TypeScript** And strengthen **DSA** -->
 
-
+<!--
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
   <a href="https://x.com/vasanidarshan56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani56" height="30" width="40" /></a>
@@ -29,6 +29,62 @@
   <a href="https://topmate.io/dpvasani56" target="blank"><img align="center" src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" alt="dpvasani56" height="30" width="30" /></a>
    <a href="https://codolio.com/profile/dpvasani56" target="blank"><img align="center" src="https://github.com/user-attachments/assets/bc555784-3a1b-4660-bb42-415e31246a25" alt="dpvasani56" height="35" width="35" /></a>
 </p>
+
+-->
+
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
+<table>
+  <tr>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://x.com/vasanidarshan56" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+        <br/>X
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://www.linkedin.com/in/dpvasani56/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://www.instagram.com/dpvasani56" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+        <br/>Instagram
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://leetcode.com/u/dpvasani56/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+        <br/>LeetCode
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://www.geeksforgeeks.org/user/dpvasani56/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+        <br/>GFG
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://linktr.ee/dpvasani56" target="_blank">
+        <img src="https://github.com/dpvasani/dpvasani/assets/109815626/789d1777-6921-4b0f-8740-e85977a95dfc" height="40" width="40"/>
+        <br/>Linktree
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://topmate.io/dpvasani56" target="_blank">
+        <img src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" height="30" width="30"/>
+        <br/>Topmate
+      </a>
+    </td>
+    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
+      <a href="https://codolio.com/profile/dpvasani56" target="_blank">
+        <img  src="https://github.com/user-attachments/assets/6c4c1ce2-c102-4435-941b-1fea7a629577" height="35" width="35"/>
+        <br/>Codolio
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
