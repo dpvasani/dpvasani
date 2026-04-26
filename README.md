@@ -73,12 +73,6 @@
       </a>
     </td>
     <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
-      <a href="https://topmate.io/dpvasani56" target="_blank">
-        <img src="https://github.com/dpvasani/dpvasani/assets/109815626/32b286b1-8629-4a9f-b264-5616342de401" height="30" width="30"/>
-        <br/>Topmate
-      </a>
-    </td>
-    <td align="center" style="background-color:#ffffff; padding:10px; border-radius:10px;">
       <a href="https://codolio.com/profile/dpvasani56" target="_blank">
         <img  src="https://github.com/user-attachments/assets/6c4c1ce2-c102-4435-941b-1fea7a629577" height="35" width="35"/>
         <br/>Codolio
