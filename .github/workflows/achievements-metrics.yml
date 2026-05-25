@@ -14,7 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Achievements Metrics
-        uses: lowlighter/metrics@latest
+        # Uses fork that migrates from deprecated `projects` to `projectsV2` GraphQL API
+        # (see lowlighter/metrics#1769). Switch back to lowlighter/metrics@latest once merged.
+        uses: dkhokhlov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.plugin.achievements.svg
