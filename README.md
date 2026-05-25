@@ -373,7 +373,7 @@ Uncomment the entire block when needed.
 <table>
   <tr>
     <td>
-<!--       <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" /> -->
+      <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
       <img src="assets/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" />
     </td>
     <td rowspan="2">
