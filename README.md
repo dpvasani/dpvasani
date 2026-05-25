@@ -402,64 +402,6 @@ Uncomment the entire block when needed.
   </tr>
 </table>
 
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-# 🏆 Achievements
-
-> This plugin displays several highlights about what an account has achieved on GitHub.
-
-> ⚠️ **Disclaimer:** This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with GitHub. All product and company names are trademarks™ or registered® trademarks of their respective holders.
-
-### Supported Features
-
-| Feature | Details |
-|---------|---------|
-| Template | 📗 Classic template |
-| Accounts | 👤 Users &nbsp; 👥 Organizations |
-| Scopes | 🔑 `(scopeless)` &nbsp; `read:org` *(optional)* &nbsp; `read:user` *(optional)* &nbsp; `read:packages` *(optional)* &nbsp; `repo` *(optional)* |
-
-### ➡️ Available Options
-
-| Option | Description | Type | Default | Allowed Values |
-|--------|-------------|------|---------|---------------|
-| `plugin_achievements` | Enable achievements plugin | boolean | — | — |
-| `plugin_achievements_threshold` | Rank threshold filter. Use `X` to display achievements not yet unlocked | string | `C` | `S`, `A`, `B`, `C`, `X` |
-| `plugin_achievements_secrets` | Secrets achievements | boolean | `yes` | — |
-| `plugin_achievements_display` | Display style: `detailed` (icon, name, description & ranking) or `compact` (icon, name & value) | string | `detailed` | `detailed`, `compact` |
-| `plugin_achievements_limit` | Display limit (0 = disable limit) | number (0 ≤ x) | `0` | — |
-| `plugin_achievements_ignored` | Ignored achievements. Use achievement names without their rank adjective (i.e. without "great", "super" or "master") | array (comma-separated) | — | — |
-| `plugin_achievements_only` | Showcased achievements. Equivalent to `plugin_achievements_ignored` with all existing achievements except the ones listed | array (comma-separated) | — | — |
-
-### ℹ️ Example Workflows
-
-**Detailed display:**
-```yaml
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
-```
-
-**Compact display:**
-```yaml
-name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
-```
-
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
