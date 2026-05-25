@@ -27,6 +27,26 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
 
+          # 🎨 Dark background matching Tokyo Night theme
+          config_background: "#1a1b27"
+
           # ✅ Commit Calendar Plugin
           plugin_calendar: yes
           plugin_calendar_limit: 0   # You can use 1, 0, or -1 as explained
+
+          # 🌙 Tokyo Night contribution colors (replaces GitHub green)
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #1a1b27;
+              --color-calendar-graph-day-L1-bg: #1f3460;
+              --color-calendar-graph-day-L2-bg: #2d5099;
+              --color-calendar-graph-day-L3-bg: #5079d4;
+              --color-calendar-graph-day-L4-bg: #7aa2f7;
+            }
+            rect[data-level="0"] { fill: #1a1b27 !important; }
+            rect[data-level="1"] { fill: #1f3460 !important; }
+            rect[data-level="2"] { fill: #2d5099 !important; }
+            rect[data-level="3"] { fill: #5079d4 !important; }
+            rect[data-level="4"] { fill: #7aa2f7 !important; }
+            text { fill: #a9b1d6 !important; }
+            .text-muted { fill: #6b7280 !important; }
