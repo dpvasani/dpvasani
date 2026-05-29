@@ -371,7 +371,8 @@ Uncomment the entire block when needed.
 <table>
   <tr>
     <td>
-      <img src="assets/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" />
+      <!-- <img src="assets/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" /> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvasani&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td rowspan="2">
       <img src="assets/metrics.template.classic.svg" alt="Classic" />
@@ -417,4 +418,3 @@ Uncomment the entire block when needed.
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
-
