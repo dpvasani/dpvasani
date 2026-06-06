@@ -416,6 +416,15 @@ Uncomment the entire block when needed.
   </tr>
 </table>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# 🔥 3D Contributions Chart
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/day.svg" />
+  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/profile-night-green.svg" />
+</picture>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
