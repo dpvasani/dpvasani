@@ -18,8 +18,8 @@ jobs:
       - name: Generate Achievements Metrics
         uses: dkhokhlov/metrics@master
         with:
-          filename: assets/metrics.plugin.achievementss.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: dpvasani
           base: ""
