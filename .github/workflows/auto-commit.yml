@@ -1,0 +1,34 @@
+name: 🔥 Daily Auto Commit
+
+on:
+  schedule:
+    # First commit at 6:00 AM IST (00:30 UTC)
+    - cron: "30 0 * * *"
+    # Second commit at 9:00 PM IST (15:30 UTC)
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update keep-alive log
+        run: |
+          mkdir -p .github/keep-alive
+          echo "Last auto-commit: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/keep-alive/streak.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "dpvasani"
+          git config user.email "dpvasani56@gmail.com"
+          git add .github/keep-alive/streak.txt
+          git diff --cached --quiet || git commit -m "chore: 🔥 keep streak alive [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
