@@ -1,9 +1,8 @@
 name: 🏆 Achievements
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
-  push:
-    branches: ["master", "main"]
 
 jobs:
   achievements:

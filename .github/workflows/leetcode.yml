@@ -8,11 +8,6 @@ on:
     - cron: "30 19 * * *"
   # Allow manual run
   workflow_dispatch:
-  # Run on push to default branches
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   leetcode-metrics:

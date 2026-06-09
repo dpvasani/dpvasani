@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "15 19 * * *"  # Runs every day at 12:45 AM IST (19:15 UTC)
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   stackoverflow-metrics:

@@ -6,11 +6,6 @@ on:
     - cron: "40 19 * * 0"
   # Allow manual runs
   workflow_dispatch:
-  # Run on push to default branches
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   calendar-metrics:
