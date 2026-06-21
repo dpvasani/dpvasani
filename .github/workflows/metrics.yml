@@ -61,9 +61,6 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
 
-          # 🎨 Dark background matching Tokyo Night theme
-          config_background: "#1a1b27"
-
           # ✅ Commit Calendar Plugin
           plugin_calendar: yes
           plugin_calendar_limit: 0
@@ -77,6 +74,7 @@ jobs:
             rect[fill="#216e39"] { fill: #7aa2f7 !important; }
             svg.calendar text { fill: #a9b1d6 !important; }
             .text-muted { fill: #6b7280 !important; }
+            svg { background-color: #1a1b27 !important; }
 
   # ──────────────────────────────────────────────────────────
   # [3] LeetCode Stats — waits for calendar
@@ -100,7 +98,6 @@ jobs:
           config_timezone: Asia/Calcutta
 
           config_display: large
-          config_title: "🧠 My LeetCode Stats"
 
           plugin_leetcode: yes
           plugin_leetcode_user: dpvasani56
@@ -179,14 +176,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
       - name: Commit & Push
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output-3d-contrib
           build_dir: profile-3d-contrib
